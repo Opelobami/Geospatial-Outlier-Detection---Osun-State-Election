@@ -153,12 +153,10 @@ By combining **geostatistical modeling** and **interactive mapping**, it reveals
 
 ---
 
-## 👨‍💻 Author
-
-**Opeyemi Ayobami**  
-_Data Analyst | Geospatial Enthusiast_  
-📍 Nigeria  
-📧 [Your email or LinkedIn here]  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+## 📬 Contact  
+If you'd like to collaborate, discuss analytics, or learn more:  
+- **Name:** Opeyemi Ayodeji  
+- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **Email:** sopeyemi65@gmail.com  
 
 ---
