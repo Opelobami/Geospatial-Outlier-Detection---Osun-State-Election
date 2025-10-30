@@ -156,7 +156,7 @@ By combining **geostatistical modeling** and **interactive mapping**, it reveals
 ## 📬 Contact  
 If you'd like to collaborate, discuss analytics, or learn more:  
 - **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **Email:** sopeyemi65@gmail.com  
 
 ---
